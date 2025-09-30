@@ -27,12 +27,12 @@
     }
   },
   {
-    "name": "Hamster Spin",
-    "desc": "BLA BLA BLA.",
+    "name": "Hamster Run",
+    "desc": "Animation of a hamster running in a wheel.",
     "image": "hamster",
     "category": "mern",
     "links": {
-      "view": "https://www.artstation.com/artwork/V2KymX"
+      "view": "https://www.artstation.com/artwork/mAR8Gv"
     }
   },
   {
@@ -59,12 +59,12 @@
     "image": "coop",
     "category": "mern",
     "links": {
-      "view": ""
+      "view": "https://github.com/IlGambA/ACoopGame"
     }
   },
   {
     "name": "Journey to the Void",
-    "desc": "Roguelike card game",
+    "desc": "A strategic grid-based deckbuilder roguelite where you battle unique enemies, face moral choices, and restore a corrupted world.",
     "image": "header",
     "category": "mern",
     "links": {
