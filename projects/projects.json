@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Traffic Slice",
+    "desc": "4-player Unity multiplayer game where players control traffic lights at intersections to prevent car collisions.",
+    "image": "trafficSlice",
+    "category": "mern",
+    "links": {
+      "view": "https://ilgamba.itch.io/traffic-slice/"
+    }
+  },
+  {
+    "name": "The Censor Man",
+    "desc": "Narrative Unity game (thesis project) exploring censorship, where players decide whether the world should know the truth.",
+    "image": "censor",
+    "category": "mern",
+    "links": {
+      "view": "https://ilgamba.itch.io/thecensorman/"
+    }
+  },
+  {
+    "name": "Zelda Run Cycle",
+    "desc": "A run cycle of Zelda character.",
+    "image": "zelda",
+    "category": "mern",
+    "links": {
+      "view": "https://www.artstation.com/artwork/V2KymX"
+    }
+  },
+  {
+    "name": "Hamster Spin",
+    "desc": "BLA BLA BLA.",
+    "image": "hamster",
+    "category": "mern",
+    "links": {
+      "view": "https://www.artstation.com/artwork/V2KymX"
+    }
+  },
+  {
+    "name": "Wrapper FMOD",
+    "desc": "A lightweight wrapper around FMOD Studio API for managing sound loading, playback, and channels in a clean and flexible way.",
+    "image": "fmod",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/IlGambA/fmod-wrapper"
+    }
+  },
+  {
+    "name": "VamPop!",
+    "desc": "A Pang-like game made with Unity6 for Android.",
+    "image": "vampop",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/IlGambA/pang-clone"
+    }
+  },
+  {
+    "name": "ACoopGame",
+    "desc": "A 2-player coop puzzle game, applying 3D development and programming skills while collaborating with a team to design engaging gameplay experiences.",
+    "image": "coop",
+    "category": "mern",
+    "links": {
+      "view": ""
+    }
+  },
+  {
+    "name": "Journey to the Void",
+    "desc": "Roguelike card game",
+    "image": "header",
+    "category": "mern",
+    "links": {
+      "view": "https://store.steampowered.com/app/3210490/Journey_to_the_Void/"
+    }
+  },
+  {
+    "name": "Arkanoid DX11",
+    "desc": "A clone of the classic Arkanoid game, developed in C++ and DirectX 11.",
+    "image": "arkanoid",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/IlGambA/Arkanoid"
+    }
+  }
+  
+
+
+
+]

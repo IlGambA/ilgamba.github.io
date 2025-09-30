@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Unreal Engine",
+        "icon": "https://img.icons8.com/?size=100&id=38240&format=png&color=FFFFFF"
+    },
+    {
+        "name": "Unity",
+        "icon": "https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF"
+    },
+    {
+        "name": "Maya",
+        "icon": "assets/images/mayalogo.png"
+    },   
+    {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/?size=100&id=13677&format=png&color=000000"
+    },
+        
+    {
+        "name": "Substance Painter",
+        "icon": "assets/images/Adobe_Substance_3D_Painter_icon.png"
+    }   
+]
